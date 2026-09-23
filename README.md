@@ -1,7 +1,3 @@
-Yes. If you’re turning Add README ON, use this as the full README.md content for the repository.
-
-I’ve kept it aligned with your research framework, while making it suitable for an actual GitHub software project. The framework identifies the core system as an offline-capable, human-in-the-loop agricultural decision-support application with price forecasting, crop recommendation, disease diagnosis, farmer feedback, and offline synchronization. AgriTrust AI Framework.pdf
-
 # AgriTrust AI 🌱
 ### Human-in-the-Loop Agricultural Decision Support System for Sri Lankan Farmers
 AgriTrust AI is a mobile agricultural decision-support application designed to help smallholder farmers make better-informed decisions about **what to grow, market conditions, crop health, and farm management**.
