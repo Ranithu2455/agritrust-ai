@@ -1,4 +1,4 @@
-# AgriTrust AI 🌱
+AgriNexus AI
 ### Human-in-the-Loop Agricultural Decision Support System for Sri Lankan Farmers
 AgriTrust AI is a mobile agricultural decision-support application designed to help smallholder farmers make better-informed decisions about **what to grow, market conditions, crop health, and farm management**.
 The system combines artificial intelligence, agricultural data, market intelligence, crop-health analysis, farmer feedback, and offline-first functionality into a single mobile platform.
